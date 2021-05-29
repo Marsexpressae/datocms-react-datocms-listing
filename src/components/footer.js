@@ -10,9 +10,7 @@ export default class Footer extends Component {
             <div className="col-md-5 col-sm-6">
               <img className="footer-logo" src={logo} alt="" />
               <p>
-                Morbi convallis bibendum urna ut viverra. Maecenas quis
-                consequat libero, a feugiat eros. Nunc ut lacinia tortor morbi
-                ultricies laoreet ullamcorper phasellus semper.
+                Its listing reach app with datocms.
               </p>
             </div>
 
